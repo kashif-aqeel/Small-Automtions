@@ -1,0 +1,706 @@
+
+============================== 2025-06-05 14:50:14 ==============================
+
+
+
+Name                   Id                        Version Available Source
+------------------------------------------------------------------------
+Signal 7.56.0          OpenWhisperSystems.Signal 7.56.0  7.56.1    winget
+Postman x86_64 11.48.0 Postman.Postman           11.48.0 11.48.4   winget
+2 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/2) Found Signal [OpenWhisperSystems.Signal] Version 7.56.1
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://updates.signal.org/desktop/signal-desktop-win-7.56.1.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/2) Found Postman [Postman.Postman] Version 11.48.4
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://dl.pstmn.io/download/version/11.48.4/windows_64
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-05 14:53:19 ==============================
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-05 16:00:02 ==============================
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-06 06:14:33 ==============================
+
+
+
+Failed in attempting to update the source: winget
+
+Failed when searching source: msstore
+An unexpected error occurred while executing the command: 
+WinHttpSendRequest: 12007: The server name or address could not be resolved
+
+0x80072ee7 : unknown error
+
+============================== 2025-06-06 16:00:03 ==============================
+
+
+============================== 2025-06-08 19:57:43 ==============================
+
+
+============================== 2025-06-08 19:58:54 ==============================
+
+
+
+Name                   Id                                      Version Available Source
+--------------------------------------------------------------------------------------
+Postman x86_64 11.48.4 Postman.Postman                         11.48.4 11.48.5   winget
+Raspberry Pi Imager    RaspberryPiFoundation.RaspberryPiImager 1.9.0   1.9.4     winget
+2 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/2) Found Postman [Postman.Postman] Version 11.48.5
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://dl.pstmn.io/download/version/11.48.5/windows_64
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/2) Found Raspberry Pi Imager [RaspberryPiFoundation.RaspberryPiImager] Version 1.9.4
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/raspberrypi/rpi-imager/releases/download/v1.9.4/imager-1.9.4.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-09 16:00:02 ==============================
+
+
+
+Name                   Id              Version Available Source
+--------------------------------------------------------------
+Postman x86_64 11.48.5 Postman.Postman 11.48.5 11.49.0   winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found Postman [Postman.Postman] Version 11.49.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://dl.pstmn.io/download/version/11.49.0/windows_64
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-10 16:00:02 ==============================
+
+
+
+Name                        Id                          Version      Available    Source
+---------------------------------------------------------------------------------------
+Mozilla Firefox (x64 en-US) Mozilla.Firefox             139.0.1      139.0.4      winget
+Adobe Acrobat (64-bit)      Adobe.Acrobat.Reader.64-bit 25.001.20521 25.001.20531 winget
+2 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/2) Found Mozilla Firefox (en-US) [Mozilla.Firefox] Version 139.0.4
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0.4/win64/en-US/Firefox%20Setup%20139.0.4.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/2) Found Adobe Acrobat Reader (64-bit) [Adobe.Acrobat.Reader.64-bit] Version 25.001.20531
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://ardownload2.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2500120531/AcroRdrDCx642500120531_MUI.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-11 16:00:02 ==============================
+
+
+
+Name                            Id                                     Version Available Source
+----------------------------------------------------------------------------------------------
+Mozilla Thunderbird (x64 en-US) Mozilla.Thunderbird                    139.0.1 139.0.2   winget
+Yubico Authenticator            Yubico.Authenticator                   7.2.0   7.2.3     winget
+Visual Studio Enterprise 2022   Microsoft.VisualStudio.2022.Enterprise 17.14.4 17.14.5   winget
+3 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/3) Found Mozilla Thunderbird (en-US) [Mozilla.Thunderbird] Version 139.0.2
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download-installer.cdn.mozilla.net/pub/thunderbird/releases/139.0.2/win64/en-US/Thunderbird%20Setup%20139.0.2.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/3) Found Yubico Authenticator [Yubico.Authenticator] Version 7.2.3
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/Yubico/yubioath-flutter/releases/download/7.2.3/yubico-authenticator-7.2.3-win64.msi
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(3/3) Found Visual Studio Enterprise 2022 [Microsoft.VisualStudio.2022.Enterprise] Version 17.14.5
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.visualstudio.microsoft.com/download/pr/e98d75fa-91b1-47a1-9cb7-b6556de592c5/483a02b941ba87bd5233c31eb19b0a3d6681c71031bb349ebff95851f507d726/vs_Enterprise.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-12 16:00:02 ==============================
+
+
+
+Name              Id                        Version Available Source
+-------------------------------------------------------------------
+TechPowerUp GPU-Z TechPowerUp.GPU-Z         2.65.1  2.66.0    winget
+Signal 7.56.1     OpenWhisperSystems.Signal 7.56.1  7.57.0    winget
+2 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/2) Found TechPowerUp GPU-Z [TechPowerUp.GPU-Z] Version 2.66.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://us1-dl.techpowerup.com/files/GPU-Z.2.66.0.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/2) Found Signal [OpenWhisperSystems.Signal] Version 7.57.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://updates.signal.org/desktop/signal-desktop-win-7.57.0.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-14 16:00:04 ==============================
+
+
+
+Name                   Id              Version Available Source
+--------------------------------------------------------------
+Postman x86_64 11.49.0 Postman.Postman 11.49.0 11.49.4   winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found Postman [Postman.Postman] Version 11.49.4
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://dl.pstmn.io/download/version/11.49.4/windows_64
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-15 16:00:04 ==============================
+
+
+
+Name               Id                 Version          Available        Source
+-----------------------------------------------------------------------------
+Microsoft OneDrive Microsoft.OneDrive 25.091.0512.0001 25.095.0518.0002 winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found Microsoft OneDrive [Microsoft.OneDrive] Version 25.095.0518.0002
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://oneclient.sfx.ms/Win/Installers/25.095.0518.0002/amd64/OneDriveSetup.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-16 16:00:03 ==============================
+
+
+
+Name                  Id                              Version Available Source
+-----------------------------------------------------------------------------
+CrystalDiskMark 8.0.6 CrystalDewWorld.CrystalDiskMark 8.0.6   9.0.0     winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found CrystalDiskMark [CrystalDewWorld.CrystalDiskMark] Version 9.0.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://sourceforge.net/projects/crystaldiskmark/files/9.0.0/CrystalDiskMark9_0_0Ads.exe/download
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-17 16:00:03 ==============================
+
+
+
+Name                    Id              Version   Available Source
+-----------------------------------------------------------------
+Git                     Git.Git         2.49.0    2.50.0    winget
+Zoom Workplace (64-bit) Zoom.Zoom       6.4.64384 6.5.6118  winget
+Postman x86_64 11.49.4  Postman.Postman 11.49.4   11.50.1   winget
+Ollama version 0.9.0    Ollama.Ollama   0.9.0     0.9.1     winget
+4 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/4) Found Git [Git.Git] Version 2.50.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/git-for-windows/git/releases/download/v2.50.0.windows.1/Git-2.50.0-64-bit.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/4) Found Zoom Workplace [Zoom.Zoom] Version 6.5.6118
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://zoom.us/client/6.5.0.6118/ZoomInstallerFull.msi?archType=x64
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(3/4) Found Postman [Postman.Postman] Version 11.50.1
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://dl.pstmn.io/download/version/11.50.1/windows_64
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(4/4) Found Ollama [Ollama.Ollama] Version 0.9.1
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/ollama/ollama/releases/download/v0.9.1/OllamaSetup-Preview.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-18 16:00:03 ==============================
+
+
+============================== 2025-06-19 16:00:02 ==============================
+
+
+
+Name                          Id                                     Version             Available Source
+--------------------------------------------------------------------------------------------------------
+Visual Studio Enterprise 2022 Microsoft.VisualStudio.2022.Enterprise 17.14.6 (June 2025) 17.14.6   winget
+Signal 7.57.0                 OpenWhisperSystems.Signal              7.57.0              7.58.0    winget
+Ollama version 0.9.1          Ollama.Ollama                          0.9.1               0.9.2     winget
+3 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/3) Found Visual Studio Enterprise 2022 [Microsoft.VisualStudio.2022.Enterprise] Version 17.14.6
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.visualstudio.microsoft.com/download/pr/4652b1eb-63f7-432d-84ab-06108c5d7cd7/a98d9ef8a72929a55389348fe2dd9dd5487b04b1a304d2e203c63978615de59d/vs_Enterprise.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/3) Found Signal [OpenWhisperSystems.Signal] Version 7.58.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://updates.signal.org/desktop/signal-desktop-win-7.58.0.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(3/3) Found Ollama [Ollama.Ollama] Version 0.9.2
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+An unexpected error occurred while executing the command: 
+0x8a150040 : Error reading from the stream
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-20 16:00:02 ==============================
+
+
+
+Name                   Id                              Version           Available            Source
+---------------------------------------------------------------------------------------------------
+CrystalDiskMark 9.0.0  CrystalDewWorld.CrystalDiskMark 9.0.0             9.0.1                winget
+Microsoft Edge         Microsoft.Edge                  137.0.3296.83     137.0.3296.93        winget
+Postman x86_64 11.50.2 Postman.Postman                 11.50.2           11.50.5              winget
+Ollama version 0.9.1   Ollama.Ollama                   0.9.1             0.9.2                winget
+Microsoft Teams        Microsoft.Teams                 25153.1009.3726.1 25153.1010.3727.5483 winget
+5 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/4) Found CrystalDiskMark [CrystalDewWorld.CrystalDiskMark] Version 9.0.1
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://sourceforge.net/projects/crystaldiskmark/files/9.0.1/CrystalDiskMark9_0_1Ads.exe/download
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/4) Found Postman [Postman.Postman] Version 11.50.5
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://dl.pstmn.io/download/version/11.50.5/windows_64
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(3/4) Found Ollama [Ollama.Ollama] Version 0.9.2
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(4/4) Found Microsoft Teams [Microsoft.Teams] Version 25153.1010.3727.5483
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed. Restart the application to complete the upgrade.
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-21 16:00:02 ==============================
+
+
+
+Name            Id              Version           Available            Source
+----------------------------------------------------------------------------
+Microsoft Teams Microsoft.Teams 25153.1009.3726.1 25153.1010.3727.5483 winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found Microsoft Teams [Microsoft.Teams] Version 25153.1010.3727.5483
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed. Restart the application to complete the upgrade.
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-22 16:00:01 ==============================
+
+
+
+Name            Id              Version           Available            Source
+----------------------------------------------------------------------------
+Microsoft Teams Microsoft.Teams 25153.1009.3726.1 25153.1010.3727.5483 winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found Microsoft Teams [Microsoft.Teams] Version 25153.1010.3727.5483
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed. Restart the application to complete the upgrade.
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-23 16:00:03 ==============================
+
+
+
+Name                    Id        Version  Available Source
+----------------------------------------------------------
+Zoom Workplace (64-bit) Zoom.Zoom 6.5.6118 6.5.6476  winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found Zoom Workplace [Zoom.Zoom] Version 6.5.6476
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://zoom.us/client/6.5.1.6476/ZoomInstallerFull.msi?archType=x64
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-24 16:00:02 ==============================
+
+
+
+Name                        Id                    Version Available Source
+-------------------------------------------------------------------------
+Mozilla Firefox (x64 en-US) Mozilla.Firefox       139.0.4 140.0     winget
+TeamViewer                  TeamViewer.TeamViewer 15.66.5 15.67.3   winget
+2 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/2) Found Mozilla Firefox (en-US) [Mozilla.Firefox] Version 140.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0/win64/en-US/Firefox%20Setup%20140.0.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/2) Found TeamViewer [TeamViewer.TeamViewer] Version 15.67.3
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.teamviewer.com/download/version_15x/TeamViewer_Setup_x64_15.67.3.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-25 16:00:13 ==============================
+
+
+
+Name             Id                        Version      Available    Source
+--------------------------------------------------------------------------
+PowerShell 7-x64 Microsoft.PowerShell      7.5.1.0      7.5.2.0      winget
+Windows Terminal Microsoft.WindowsTerminal 1.22.11141.0 1.22.11751.0 winget
+2 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+Installing dependencies:
+This package requires the following dependencies:
+  - Packages
+      Microsoft.UI.Xaml.2.8 [>= 8.2306.22001.0]
+(1/2) Found PowerShell [Microsoft.PowerShell] Version 7.5.2.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://github.com/PowerShell/PowerShell/releases/download/v7.5.2/PowerShell-7.5.2-win-x64.msi
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/2) Found Windows Terminal [Microsoft.WindowsTerminal] Version 1.22.11751.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed. Restart the application to complete the upgrade.
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-26 16:00:02 ==============================
+
+
+============================== 2025-06-27 16:00:03 ==============================
+
+
+============================== 2025-06-28 16:00:03 ==============================
+
+
+
+Name                        Id                        Version      Available    Source
+-------------------------------------------------------------------------------------
+Mozilla Firefox (x64 en-US) Mozilla.Firefox           140.0.1      140.0.2      winget
+WinRAR 7.11 (64-bit)        RARLab.WinRAR             7.11.0       7.12.0       winget
+Ollama version 0.9.2        Ollama.Ollama             0.9.2        0.9.3        winget
+Windows Terminal            Microsoft.WindowsTerminal 1.22.11141.0 1.22.11751.0 winget
+4 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+Installing dependencies:
+This package requires the following dependencies:
+  - Packages
+      Microsoft.UI.Xaml.2.8 [>= 8.2306.22001.0]
+(1/4) Found Mozilla Firefox (en-US) [Mozilla.Firefox] Version 140.0.2
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.0.2/win64/en-US/Firefox%20Setup%20140.0.2.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(2/4) Found WinRAR [RARLab.WinRAR] Version 7.12.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://www.rarlab.com/rar/winrar-x64-712.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+(3/4) Found Ollama [Ollama.Ollama] Version 0.9.3
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+An unexpected error occurred while executing the command: 
+0x8a150040 : Error reading from the stream
+
+(4/4) Found Windows Terminal [Microsoft.WindowsTerminal] Version 1.22.11751.0
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-29 16:00:02 ==============================
+
+
+
+Name                 Id            Version Available Source
+----------------------------------------------------------
+Ollama version 0.9.2 Ollama.Ollama 0.9.2   0.9.3     winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found Ollama [Ollama.Ollama] Version 0.9.3
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-06-30 16:00:02 ==============================
+
+
+
+Name                    Id        Version  Available Source
+----------------------------------------------------------
+Zoom Workplace (64-bit) Zoom.Zoom 6.5.6476 6.5.7509  winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found Zoom Workplace [Zoom.Zoom] Version 6.5.7509
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://zoom.us/client/6.5.3.7509/ZoomInstallerFull.msi?archType=x64
+
+Successfully verified installer hash
+Starting package install...
+
+Restart your PC to finish installation.
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-07-01 16:00:03 ==============================
+
+
+
+Name       Id                    Version Available Source
+--------------------------------------------------------
+TeamViewer TeamViewer.TeamViewer 15.67.3 15.67.4   winget
+1 upgrades available.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+(1/1) Found TeamViewer [TeamViewer.TeamViewer] Version 15.67.4
+This application is licensed to you by its owner.
+Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Downloading https://download.teamviewer.com/download/version_15x/TeamViewer_Setup_x64_15.67.4.exe
+
+Successfully verified installer hash
+Starting package install...
+
+Successfully installed
+
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+============================== 2025-07-02 16:00:03 ==============================
+

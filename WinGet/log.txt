@@ -1,0 +1,954 @@
+
+
+===== 2025-06-04 10:57:29 =====
+
+
+
+
+----- Cleaned Lines -----
+
+
+
+
+===== 2025-06-04 10:58:11 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+=/= 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 10:59:18 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+=/=\ 
+   | 
+   / 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 11:08:44 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+
+  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1024 KB / 1.92 MB
+  ██████████████████████████████  1.92 MB / 1.92 MB
+                                                                                                                        
+
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  2%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3%
+  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  9%
+  ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  10%
+  ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  26%
+  ████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  43%
+  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  60%
+  █████████████████████▒▒▒▒▒▒▒▒▒  72%
+  ██████████████████████▒▒▒▒▒▒▒▒  76%
+  ███████████████████████▒▒▒▒▒▒▒  78%
+  █████████████████████████▒▒▒▒▒  86%
+  █████████████████████████████▒  99%
+  █████████████████████████████▒  99%
+  ██████████████████████████████  100%
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+=/=
+\ 
+   | 
+   / 
+                                                                                                                        
+
+  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1024 KB / 1.92 MB
+  ██████████████████████████████  1.92 MB / 1.92 MB
+                                                                                                                        
+
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  2%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3%
+  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  9%
+  ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  10%
+  ███████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  26%
+  ████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  43%
+  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  60%
+  █████████████████████▒▒▒▒▒▒▒▒▒  72%
+  ██████████████████████▒▒▒▒▒▒▒▒  76%
+  ███████████████████████▒▒▒▒▒▒▒  78%
+  █████████████████████████▒▒▒▒▒  86%
+  █████████████████████████████▒  99%
+  █████████████████████████████▒  99%
+  ██████████████████████████████  100%
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 11:09:09 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+                                                                                                                        
+
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use =/=
+=/=
+include=/=
+unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use =/=
+=/=
+include=/=
+unknown to see all results.
+
+
+===== 2025-06-04 12:31:35 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1024 KB / 1.93 MB
+  ██████████████████████████████  1.93 MB / 1.93 MB
+                                                                                                                        
+
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  2%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3%
+  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  4%
+  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  7%
+  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  8%
+  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  9%
+  ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  27%
+  █████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  45%
+  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  54%
+  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  55%
+  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  56%
+  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  56%
+  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  57%
+  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  59%
+  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  60%
+  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  61%
+  █████████████████████▒▒▒▒▒▒▒▒▒  70%
+  ██████████████████████▒▒▒▒▒▒▒▒  74%
+  ██████████████████████▒▒▒▒▒▒▒▒  76%
+  █████████████████████████▒▒▒▒▒  85%
+  █████████████████████████████▒  99%
+  █████████████████████████████▒  99%
+  ██████████████████████████████  100%
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+                                                                                                                        
+
+  ███████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1024 KB =/=
+ 1.93 MB
+  ██████████████████████████████  1.93 MB =/=
+ 1.93 MB
+                                                                                                                        
+
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  0%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  1%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  2%
+  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  3%
+  █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  4%
+  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  7%
+  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  8%
+  ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  9%
+  ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  27%
+  █████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  45%
+  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  54%
+  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  55%
+  ████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒  56%
+  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  56%
+  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  57%
+  █████████████████▒▒▒▒▒▒▒▒▒▒▒▒▒  59%
+  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  60%
+  ██████████████████▒▒▒▒▒▒▒▒▒▒▒▒  61%
+  █████████████████████▒▒▒▒▒▒▒▒▒  70%
+  ██████████████████████▒▒▒▒▒▒▒▒  74%
+  ██████████████████████▒▒▒▒▒▒▒▒  76%
+  █████████████████████████▒▒▒▒▒  85%
+  █████████████████████████████▒  99%
+  █████████████████████████████▒  99%
+  ██████████████████████████████  100%
+                                                                                                                        
+
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use =/=
+=/=
+include=/=
+unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use =/=
+=/=
+include=/=
+unknown to see all results.
+
+
+===== 2025-06-04 12:32:09 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+                                                                                                                        
+
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+   =/=
+ 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use =/=
+=/=
+include=/=
+unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use =/=
+=/=
+include=/=
+unknown to see all results.
+
+
+===== 2025-06-04 12:33:35 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+ 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use=/=
+=/=
+include=/=
+unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use=/=
+=/=
+include=/=
+unknown to see all results.
+
+
+===== 2025-06-04 12:34:04 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use=/=
+=/=
+include=/=
+unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use=/=
+=/=
+include=/=
+unknown to see all results.
+
+
+===== 2025-06-04 12:34:44 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 12:36:30 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+=/=
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 12:37:01 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nNo installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 12:37:35 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+
+
+
+
+
+
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 12:38:36 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+
+
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 12:39:02 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 12:40:13 =====
+
+
+
+   - 
+   \ 
+   | 
+   / 
+   - 
+                                                                                                                        
+
+   - 
+   \ 
+   | 
+   / 
+                                                                                                                        
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+----- Cleaned Lines -----
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+===== 2025-06-04 12:43:43 =====
+
+
+
+
+----- Cleaned Lines -----
+
+
+
+===== 2025-06-04 12:44:58 =====
+
+
+
+
+----- Cleaned Lines -----
+
+
+
+===== 2025-06-04 12:45:05 =====
+
+
+
+
+----- Cleaned Lines -----
+
+
+
+========== 2025-06-04 13:44:54 ==========
+
+
+
+
+========== 2025-06-04 13:46:22 ==========
+
+
+================= Clean Step 1 ==========================
+
+
+
+
+
+
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+================= Clean Step 2 ==========================
+
+
+
+
+
+
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+================= Clean Step 3 ==========================
+
+
+
+
+
+
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+================= Clean Step 4 ==========================
+
+
+
+
+
+
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+================= Clean Step 5 ==========================
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+
+========== 2025-06-04 13:47:31 ==========
+
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+========== 2025-06-04 13:48:19 ==========
+
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+========== 2025-06-04 13:49:30 ==========
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+========== 2025-06-04 13:55:12 ==========
+
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+========== 2025-06-04 15:28:47 ==========
+
+D:\wip\winget\test-output.txt
+
+========== 2025-06-04 15:34:17 ==========
+
+
+========== 2025-06-04 15:34:43 ==========
+
+
+========== 2025-06-04 15:35:13 ==========
+
+
+========== 2025-06-04 15:35:30 ==========
+
+
+========== 2025-06-04 15:38:31 ==========
+
+
+
+    0%
+    0%
+    1%
+    2%
+    3%
+    4%
+    5%
+    6%
+    8%
+    9%
+    10%
+    12%
+    13%
+    14%
+    15%
+    17%
+    20%
+    21%
+    23%
+    24%
+    25%
+    26%
+    27%
+    28%
+    30%
+    31%
+    32%
+    33%
+    34%
+    35%
+    36%
+    37%
+    38%
+    39%
+    40%
+    41%
+    42%
+    43%
+    44%
+    45%
+    46%
+    47%
+    48%
+    49%
+    50%
+    51%
+    52%
+    53%
+    54%
+    55%
+    61%
+    64%
+    78%
+    99%
+    99%
+    100%
+
+No installed package found matching input criteria.
+1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+10 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results.
+
+========== 2025-06-04 15:39:29 ==========
+
+
+========== 2025-06-04 15:39:58 ==========
+
+
+========== 2025-06-04 15:41:06 ==========
+
+
+========== 2025-06-04 15:42:09 ==========
+
+
+========== 2025-06-04 15:43:38 ==========
+
